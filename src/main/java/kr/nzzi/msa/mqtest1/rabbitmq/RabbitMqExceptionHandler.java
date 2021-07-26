@@ -1,4 +1,4 @@
-package kr.nzzi.msa.mqtest1.configuration;
+package kr.nzzi.msa.mqtest1.rabbitmq;
 
 import java.nio.charset.StandardCharsets;
 import lombok.extern.slf4j.Slf4j;

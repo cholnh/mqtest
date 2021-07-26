@@ -1,4 +1,4 @@
-package kr.nzzi.msa.mqtest1.configuration;
+package kr.nzzi.msa.mqtest1.rabbitmq;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.amqp.core.Queue;

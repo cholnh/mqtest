@@ -1,7 +1,7 @@
 package kr.nzzi.msa.mqtest1.event.listener;
 
 import kr.nzzi.msa.mqtest1.event.ProductEvent;
-import kr.nzzi.msa.mqtest1.configuration.RabbitMqEvent;
+import kr.nzzi.msa.mqtest1.rabbitmq.RabbitMqEvent;
 import lombok.AllArgsConstructor;
 import org.springframework.amqp.core.Message;
 import org.springframework.amqp.rabbit.annotation.RabbitListener;
